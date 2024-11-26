@@ -47,10 +47,10 @@
    *Video*: [Dividends for Beginners](https://www.youtube.com/watch?v=zd0n2rpt_qM) - An easy-to-follow guide to dividends and how they work.
     
 15. **What is Bitcoin**
-   *Video*: [What is Bitcoin](https://www.youtube.com/watch?v=BL5vUVQvmX4)  - Explains cryptocurrencies.
+    *Video*: [What is Bitcoin](https://www.youtube.com/watch?v=BL5vUVQvmX4)  - Explains cryptocurrencies.
     
 16. **What is an Altcoin**
-   *Video*: [What is an Altcoin](https://www.youtube.com/watch?v=HG6XaFDI3hw)  - Explains cryptocurrencies.
+    *Video*: [What is an Altcoin](https://www.youtube.com/watch?v=HG6XaFDI3hw)  - Explains cryptocurrencies.
     
 17. **Crypto Investing Guide**  
    *Video*: [Crypto Investing Guide](https://www.youtube.com/watch?v=0DKVpnL3hUc) - How to invest in crypto for beginners.  
